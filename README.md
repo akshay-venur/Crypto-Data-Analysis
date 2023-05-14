@@ -1,5 +1,6 @@
 # Crypto Data Analysis    
 <br>
+
 - Created a dashboard for crypto currency data analysis using Power BI.    
 - Created a 2 KPI's for Avg. volume and Avg. Marketcap of each currencies for different years.    
 - Created a line chart for daily high & low  and daily open and close price analysis.    
